@@ -1,0 +1,8 @@
+# Arquivos temporários
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Saídas locais podem conter dados sensíveis; revise antes de versionar
+resultados/**/*.log
